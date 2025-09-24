@@ -1,3 +1,4 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/julianarandia/sql-business-analysis/blob/main/notebooks/notebook_sprint_9.ipynb)
 # SQL Business Analysis  
 
 ## Objetivo  
