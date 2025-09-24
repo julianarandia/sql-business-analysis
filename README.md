@@ -1,4 +1,3 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/julianarandia/sql-business-analysis/blob/main/notebooks/notebook_sprint_9.ipynb)
 # SQL Business Analysis  
 
 ## Objetivo  
@@ -15,10 +14,11 @@ Incluye:
 
 Los datos fueron proporcionados con fines educativos para prácticas de análisis.  
  
-## Guía de uso  
-- [Notebook del proyecto](notebook_sprint_9.ipynb)  
+## Guía de uso 
+- [Notebook del proyecto](notebooks/notebook_sprint_9.ipynb)
 - Requisitos: Python 3.9+, Pandas, NumPy, Matplotlib, SQLAlchemy 
-- Ejecutar el notebook en Jupyter o Google Colab para reproducir el análisis paso a paso.  
+- Ejecutar el notebook en Jupyter o Google Colab para reproducir el análisis paso a paso.
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/julianarandia/sql-business-analysis/blob/main/notebooks/notebook_sprint_9.ipynb)
 
 ## Conclusiones  
 - El análisis confirmó que la rentabilidad global de las campañas fue negativa, con un ROMI de –61.7%.  
